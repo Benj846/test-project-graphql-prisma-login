@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.2.2",
+    "@prisma/client": "^2.30.0",
     "graphql": "^15.3.0",
     "optimism": "^0.13.0",
     "react": "16.13.1",
@@ -30,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prisma": "^2.30.0"
   }
 }
